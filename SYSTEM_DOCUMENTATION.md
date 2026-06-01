@@ -53,6 +53,7 @@ Applies to all developers working in SAP environments within Volkswagen Financia
 ### ✅ General Rules
 - Use namespace: `/VWK/`
 - Naming format: `/VWK/&&&*`
+- for all the custom report it should start with  `/VWK/`
 - `&&&` = Application abbreviation
 - Do NOT use other application namespaces
 - Avoid local objects in `/VWK/`
