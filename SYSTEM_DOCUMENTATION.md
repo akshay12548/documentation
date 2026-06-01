@@ -93,20 +93,7 @@ Applies to all developers working in SAP environments within Volkswagen Financia
  
 ---
  
-## 💻 Program Object Naming
- 
-| Element              | Prefix |
-|---------------------|--------|
-| Select Options      | `S_`   |
-| Parameters          | `P_`   |
-| Types               | `T_`, `TT_` |
-| Global Variables    | `G$_` |
-| Local Variables     | `L$_` |
-| Import Parameters   | `I$_` |
-| Export Parameters   | `E$_` |
-| Changing Parameters | `C$_` |
- 
----
+
  
 ## 📚 Documentation Standards
  
